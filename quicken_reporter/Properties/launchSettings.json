@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "quicken_reporter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\temp\\QuickenFiles"
+    }
+  }
+}
